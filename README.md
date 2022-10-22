@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SietseDEV
 - 👀 I’m interested in gaming and making games
-- 🌱 I’m currently learning html,css,js
+- 🌱 I’m currently learning: Nothing
 - 📫 How to reach me at: contact@sietsegaming.ml
 
 <!---
