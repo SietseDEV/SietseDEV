@@ -2,8 +2,4 @@
 - 👀 I’m interested in gaming and making games
 - 🌱 I’m currently learning: Nothing
 - 📫 How to reach me at: contact@sietsegaming.ml
-
-<!---
-SietseDEV/SietseDEV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🖥️ My website https://sietsedev.ml/
