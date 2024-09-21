@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sietse</h1>
-<h3 align="center">😎The best frontend developer from Belgium 🇧🇪</h3>
+<h3 align="center">😎The best developer from Belgium 🇧🇪</h3>
 
 
 # 💻 Tech Stack:
