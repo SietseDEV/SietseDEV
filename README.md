@@ -4,7 +4,7 @@ Hi, I'm a passionate **Programmer** from **Belgium** with over **3 years** of ex
 
 I work with a variety of languages and frameworks, including:
 
-- **Frontend**: HTML, CSS, JavaScript, Typescript, React, DaisyUI, ShadCN
+- **Frontend**: HTML, CSS, JavaScript, Typescript, React, DaisyUI, Shadcn
 - **Backend**: Node.js, Lua
 - **Other**: Various tools and libraries that I integrate into my projects!
 
