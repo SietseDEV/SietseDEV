@@ -11,5 +11,5 @@ I work with a variety of languages and frameworks, including:
 ## My Projects
 
 ### [Cartoon Blox (Closed Source)](https://cartoonblox.com/)
-I developed **Cartoon Blox**, an online game.
+
 ---
