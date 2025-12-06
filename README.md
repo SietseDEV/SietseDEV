@@ -12,8 +12,4 @@ I work with a variety of languages and frameworks, including:
 
 ### [Cartoon Blox (Closed Source)](https://cartoonblox.com/)
 I developed **Cartoon Blox**, an online game.
-
-### [Ssearch (Open Source)](https://ssearch-eta.vercel.app/)
-I'm currently working on **Ssearch**, a custom search engine. While it's live in its current form, I'm planning to **rewrite it completely** to improve its speed, functionality, and overall user experience. 
-
 ---
