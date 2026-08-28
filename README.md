@@ -7,10 +7,10 @@ I'm a programmer who enjoys building web applications and experimenting with new
 * Node.js
 * React
 * Tailwind CSS
-* Fastify
+* Fastify & Express.js
 * MongoDB
 * JavaScript
-* Lua
+* Lua / Luau
 
 ### Learning
 
@@ -19,7 +19,7 @@ I'm a programmer who enjoys building web applications and experimenting with new
 
 ### Currently
 
-I'm mainly working with Node.js and React, using Fastify for backend development. I'm also learning TypeScript and Go.
+I'm mainly working with Node.js and React, using Fastify and Express.js for backend development. I'm also learning TypeScript and Go.
 
 ---
 
