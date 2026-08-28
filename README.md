@@ -1,25 +1,26 @@
-Hi, I'm a passionate **Programmer** from **Belgium** with over **5 years** of experience in the world of development. I specialize in building interactive and dynamic web applications, with a focus on **front-end technologies** and **game development**.
+# Hi, I'm Sietse
 
-## Technologies & Tools I Use
+I'm a programmer who enjoys building web applications and experimenting with new technologies.
 
-### Languages
-- HTML
-- CSS
-- JavaScript
-- Lua/Luau
-- GDScript (basic knowledge)
+### Stack
 
-### Frameworks & Libraries
-- React
+* Node.js
+* React
+* Tailwind CSS
+* Fastify
+* MongoDB
+* JavaScript
+* Lua
 
-### Backend
-- Node.js
+### Learning
 
-### Other Tools
-- Various tools and libraries that I integrate into my projects!
+* TypeScript
+* Go
 
-## My Projects
+### Currently
 
-### [Lunis](https://github.com/lunisengine) (Coming Soon)
+I'm mainly working with Node.js and React, using Fastify for backend development. I'm also learning TypeScript and Go.
 
 ---
+
+Building things and learning along the way.
